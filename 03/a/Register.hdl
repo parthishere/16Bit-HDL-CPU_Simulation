@@ -15,4 +15,5 @@ CHIP Register {
 
     PARTS:
     // Put your code here:
+    Mux();
 }
